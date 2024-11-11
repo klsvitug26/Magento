@@ -1,0 +1,46 @@
+[INFO ] 2024-11-11 15:55:33.426 - =================================== START TEST ===================================
+[INFO ] 2024-11-11 15:55:33.433 - Test Case report initialize for TestCase004
+[INFO ] 2024-11-11 15:56:15.650 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-11-11 15:56:16.144 - PASSED - Step 2 - email is populated with email4@gmail.com.
+[INFO ] 2024-11-11 15:56:16.229 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-11-11 15:56:19.247 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-11-11 15:56:19.491 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-11-11 15:56:19.655 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-11-11 15:56:23.338 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-11-11 15:56:25.408 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-11-11 15:56:29.122 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-11-11 15:56:31.194 - PASSED - Step 10 - proteusXS was clicked.
+[INFO ] 2024-11-11 15:56:33.265 - PASSED - Step 11 - proteusBlue was clicked.
+[INFO ] 2024-11-11 15:56:35.315 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-11-11 15:56:37.367 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-11-11 15:56:43.611 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-11-11 15:56:45.401 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-11-11 15:56:45.517 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-11-11 15:56:45.682 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-11-11 15:56:45.879 - PASSED - Step 18 - country is selected with visible text: Philippines
+[INFO ] 2024-11-11 15:56:47.931 - PASSED - Step 19 - country was clicked.
+[INFO ] 2024-11-11 15:56:50.078 - PASSED - Step 20 - province is populated with Cavite.
+[INFO ] 2024-11-11 15:56:50.198 - PASSED - Step 21 - zipCode is populated with 3120.
+[INFO ] 2024-11-11 15:56:50.346 - PASSED - Step 22 - phone is populated with 091234567890.
+[INFO ] 2024-11-11 15:56:52.418 - PASSED - Step 23 - next was clicked.
+[ERROR] 2024-11-11 15:56:55.537 - Report Screenshot Error Exception: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [30936e413be3bc17dbc23db4611cdb31, executeScript {script=return Math.max(document.body.scrollHeight, document.body.offsetHeight,
+    document.documentElement.clientHeight, document.documentElement.scrollHeight, document.documentElement.offsetHeight);, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51855}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51855/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 30936e413be3bc17dbc23db4611cdb31
+[ERROR] 2024-11-11 15:56:55.538 - FAILED - org.openqa.selenium.NoSuchElementException: Unable to find element with locator By.xpath: //span[normalize-space()='Place Order']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: ActionDriver
+[INFO ] 2024-11-11 15:56:55.540 - org.openqa.selenium.NoSuchElementException: Unable to find element with locator By.xpath: //span[normalize-space()='Place Order']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: ActionDriver
+[INFO ] 2024-11-11 15:56:55.541 - =================================== END TEST ===================================

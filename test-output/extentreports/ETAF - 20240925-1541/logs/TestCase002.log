@@ -1,0 +1,9 @@
+[INFO ] 2024-09-25 15:41:43.098 - =================================== START TEST ===================================
+[INFO ] 2024-09-25 15:41:43.106 - Test Case report initialize for TestCase002
+[INFO ] 2024-09-25 15:41:48.643 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-09-25 15:41:48.841 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-09-25 15:41:48.902 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-09-25 15:41:50.381 - PASSED - Step 4 - logIn was clicked.
+[ERROR] 2024-09-25 15:41:56.882 - FAILED - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "elementName" is null
+[INFO ] 2024-09-25 15:41:56.885 - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "elementName" is null
+[INFO ] 2024-09-25 15:41:56.885 - =================================== END TEST ===================================

@@ -1,0 +1,30 @@
+[INFO ] 2024-10-03 14:15:22.691 - =================================== START TEST ===================================
+[INFO ] 2024-10-03 14:15:22.700 - Test Case report initialize for TestCase001
+[INFO ] 2024-10-03 14:15:24.592 - PASSED - Step 1 - Moved to hoverMen.
+[INFO ] 2024-10-03 14:15:24.745 - PASSED - Step 2 - Moved to hoverTops.
+[INFO ] 2024-10-03 14:15:27.571 - PASSED - Step 3 - jackets was clicked.
+[INFO ] 2024-10-03 14:15:29.679 - PASSED - Step 4 - showCart was clicked.
+[INFO ] 2024-10-03 14:15:32.639 - PASSED - Step 5 - proteusJacket was clicked.
+[INFO ] 2024-10-03 14:15:34.764 - PASSED - Step 6 - proteusSize was clicked.
+[INFO ] 2024-10-03 14:15:36.854 - PASSED - Step 7 - proteusColor was clicked.
+[INFO ] 2024-10-03 14:15:38.917 - PASSED - Step 8 - addToCart was clicked.
+[INFO ] 2024-10-03 14:15:41.037 - PASSED - Step 9 - showCart was clicked.
+[ERROR] 2024-10-03 14:15:58.208 - FAILED - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a71fbd944e579db330699a94d59ddd7, clickElement {id=f.6FFCCA780767E229FC01279B8F078FDE.d.257902C2A1067E7619F699C132CD0E8A.e.264}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56059/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3a71fbd944e579db330699a94d59ddd7)] -> xpath: //button[@id='top-cart-btn-checkout']]
+Session ID: 3a71fbd944e579db330699a94d59ddd7
+[INFO ] 2024-10-03 14:15:58.209 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a71fbd944e579db330699a94d59ddd7, clickElement {id=f.6FFCCA780767E229FC01279B8F078FDE.d.257902C2A1067E7619F699C132CD0E8A.e.264}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56059/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3a71fbd944e579db330699a94d59ddd7)] -> xpath: //button[@id='top-cart-btn-checkout']]
+Session ID: 3a71fbd944e579db330699a94d59ddd7
+[INFO ] 2024-10-03 14:15:58.209 - =================================== END TEST ===================================

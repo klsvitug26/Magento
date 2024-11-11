@@ -1,0 +1,37 @@
+[INFO ] 2024-10-16 16:25:37.866 - =================================== START TEST ===================================
+[INFO ] 2024-10-16 16:25:37.875 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-16 16:26:21.739 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-16 16:26:21.937 - PASSED - Step 2 - email is populated with tc05@test.com.
+[INFO ] 2024-10-16 16:26:22.017 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-16 16:26:22.030 - PASSED - Step 4 - Scrolled to position: x = 0, y = 300
+[INFO ] 2024-10-16 16:26:24.792 - PASSED - Step 5 - logIn was clicked.
+[INFO ] 2024-10-16 16:26:24.992 - PASSED - Step 6 - Moved to hoverMen.
+[INFO ] 2024-10-16 16:26:25.167 - PASSED - Step 7 - Moved to hoverTops.
+[ERROR] 2024-10-16 16:26:41.205 - Report Screenshot Error Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b725e88f73ef21bf16fd4895a3578315, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51134}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51134/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b725e88f73ef21bf16fd4895a3578315
+[ERROR] 2024-10-16 16:26:41.206 - FAILED - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b725e88f73ef21bf16fd4895a3578315, clickElement {id=f.6BB2769D6E44A41A082C2BB58B7F0078.d.828BBA31CC227533F241212D86F3649A.e.150}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51134}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51134/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b725e88f73ef21bf16fd4895a3578315)] -> xpath: //a[@id='ui-id-19']]
+Session ID: b725e88f73ef21bf16fd4895a3578315
+[INFO ] 2024-10-16 16:26:41.207 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b725e88f73ef21bf16fd4895a3578315, clickElement {id=f.6BB2769D6E44A41A082C2BB58B7F0078.d.828BBA31CC227533F241212D86F3649A.e.150}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51134}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51134/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b725e88f73ef21bf16fd4895a3578315)] -> xpath: //a[@id='ui-id-19']]
+Session ID: b725e88f73ef21bf16fd4895a3578315
+[INFO ] 2024-10-16 16:26:41.207 - =================================== END TEST ===================================

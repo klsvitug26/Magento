@@ -1,0 +1,45 @@
+[INFO ] 2024-10-02 14:34:31.033 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 14:34:31.040 - Test Case report initialize for TestCase003
+[INFO ] 2024-10-02 14:34:40.829 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 14:34:41.057 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 14:34:41.111 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 14:34:44.594 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 14:34:44.853 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 14:34:44.991 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 14:34:51.939 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 14:34:54.030 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:34:58.703 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:35:00.765 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:35:02.837 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:35:04.920 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:35:07.003 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:35:14.146 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-10-02 14:35:18.209 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-10-02 14:35:18.260 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-10-02 14:35:18.307 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-10-02 14:35:20.400 - PASSED - Step 18 - country was clicked.
+[INFO ] 2024-10-02 14:35:22.480 - PASSED - Step 19 - country was clicked.
+[INFO ] 2024-10-02 14:35:22.539 - PASSED - Step 20 - province is populated with Cavite.
+[INFO ] 2024-10-02 14:35:22.582 - PASSED - Step 21 - zipCode is populated with 3120.
+[INFO ] 2024-10-02 14:35:22.640 - PASSED - Step 22 - phone is populated with 091234567890.
+[ERROR] 2024-10-02 14:35:29.431 - FAILED - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="radio" class="radio" data-bind="attr: {'aria-labelledby': 'label_method_' + method.method_code + '_' + method.carrier_code + ' ' + 'label_carrier_' + method.method_code + '_' + method.carrier_code,
+                    'checked': element.rates().length == 1 || element.isSelected}, value: method.carrier_code + '_' + method.method_code, checked: element.isSelected" aria-labelledby="label_method_flatrate_flatrate label_carrier_flatrate_flatrate" checked="flatrate_flatrate" value="flatrate_flatrate" name="ko_unique_2" disabled=""> is not clickable at point (146, 566). Other element would receive the click: <div data-role="loader" class="loading-mask" style="position: absolute;">...</div>
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9ed781a7488f3d777de683ce123b4527, clickElement {id=f.3B3FFBAE1AF2A0153C065E79FA6F4169.d.20161A0CB668A9007734A785F1ADF39C.e.434}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63269}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63269/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9ed781a7488f3d777de683ce123b4527)] -> xpath: //input[@value='flatrate_flatrate']]
+Session ID: 9ed781a7488f3d777de683ce123b4527
+[INFO ] 2024-10-02 14:35:29.432 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="radio" class="radio" data-bind="attr: {'aria-labelledby': 'label_method_' + method.method_code + '_' + method.carrier_code + ' ' + 'label_carrier_' + method.method_code + '_' + method.carrier_code,
+                    'checked': element.rates().length == 1 || element.isSelected}, value: method.carrier_code + '_' + method.method_code, checked: element.isSelected" aria-labelledby="label_method_flatrate_flatrate label_carrier_flatrate_flatrate" checked="flatrate_flatrate" value="flatrate_flatrate" name="ko_unique_2" disabled=""> is not clickable at point (146, 566). Other element would receive the click: <div data-role="loader" class="loading-mask" style="position: absolute;">...</div>
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9ed781a7488f3d777de683ce123b4527, clickElement {id=f.3B3FFBAE1AF2A0153C065E79FA6F4169.d.20161A0CB668A9007734A785F1ADF39C.e.434}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63269}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63269/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9ed781a7488f3d777de683ce123b4527)] -> xpath: //input[@value='flatrate_flatrate']]
+Session ID: 9ed781a7488f3d777de683ce123b4527
+[INFO ] 2024-10-02 14:35:29.432 - =================================== END TEST ===================================

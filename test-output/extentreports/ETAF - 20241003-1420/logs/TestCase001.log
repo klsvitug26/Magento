@@ -1,0 +1,43 @@
+[INFO ] 2024-10-03 14:20:21.440 - =================================== START TEST ===================================
+[INFO ] 2024-10-03 14:20:21.448 - Test Case report initialize for TestCase001
+[INFO ] 2024-10-03 14:20:26.064 - PASSED - Step 1 - Moved to hoverMen.
+[INFO ] 2024-10-03 14:20:26.200 - PASSED - Step 2 - Moved to hoverTops.
+[INFO ] 2024-10-03 14:20:28.908 - PASSED - Step 3 - jackets was clicked.
+[INFO ] 2024-10-03 14:20:31.017 - PASSED - Step 4 - showCart was clicked.
+[INFO ] 2024-10-03 14:20:33.987 - PASSED - Step 5 - proteusJacket was clicked.
+[INFO ] 2024-10-03 14:20:36.075 - PASSED - Step 6 - proteusSize was clicked.
+[INFO ] 2024-10-03 14:20:38.132 - PASSED - Step 7 - proteusColor was clicked.
+[INFO ] 2024-10-03 14:20:40.240 - PASSED - Step 8 - addToCart was clicked.
+[INFO ] 2024-10-03 14:20:45.358 - PASSED - Step 9 - showCart was clicked.
+[INFO ] 2024-10-03 14:20:48.514 - PASSED - Step 10 - checkout was clicked.
+[INFO ] 2024-10-03 14:20:50.837 - PASSED - Step 11 - guestEmail is populated with testdoe1234@gmail.com.
+[INFO ] 2024-10-03 14:20:50.897 - PASSED - Step 12 - firstName is populated with Michael.
+[INFO ] 2024-10-03 14:20:50.945 - PASSED - Step 13 - lastName is populated with O'Hara.
+[INFO ] 2024-10-03 14:20:51.005 - PASSED - Step 14 - company is populated with Test Company.
+[INFO ] 2024-10-03 14:20:51.064 - PASSED - Step 15 - address is populated with Address 1.
+[INFO ] 2024-10-03 14:20:51.131 - PASSED - Step 16 - city is populated with Test City.
+[INFO ] 2024-10-03 14:20:53.249 - PASSED - Step 17 - country was clicked.
+[INFO ] 2024-10-03 14:20:55.320 - PASSED - Step 18 - country was clicked.
+[INFO ] 2024-10-03 14:20:57.455 - PASSED - Step 19 - province is populated with Cavite.
+[INFO ] 2024-10-03 14:20:57.496 - PASSED - Step 20 - zipCode is populated with 3120.
+[INFO ] 2024-10-03 14:20:57.560 - PASSED - Step 21 - phone is populated with 091234567890.
+[INFO ] 2024-10-03 14:21:00.609 - PASSED - Step 22 - next was clicked.
+[ERROR] 2024-10-03 14:21:07.499 - FAILED - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span data-bind="i18n: '...'">Place Order</span> is not clickable at point (867, 396). Other element would receive the click: <div class="checkout-billing-address">...</div>
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0e1cfac241b281e81b4aadffd4fe5a9b, clickElement {id=f.D91493A022E89E5C20851527EA31A496.d.5A662F701A12284826803C52814C860C.e.373}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56854}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56854/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0e1cfac241b281e81b4aadffd4fe5a9b)] -> xpath: //span[normalize-space()='Place Order']]
+Session ID: 0e1cfac241b281e81b4aadffd4fe5a9b
+[INFO ] 2024-10-03 14:21:07.499 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span data-bind="i18n: '...'">Place Order</span> is not clickable at point (867, 396). Other element would receive the click: <div class="checkout-billing-address">...</div>
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0e1cfac241b281e81b4aadffd4fe5a9b, clickElement {id=f.D91493A022E89E5C20851527EA31A496.d.5A662F701A12284826803C52814C860C.e.373}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56854}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56854/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0e1cfac241b281e81b4aadffd4fe5a9b)] -> xpath: //span[normalize-space()='Place Order']]
+Session ID: 0e1cfac241b281e81b4aadffd4fe5a9b
+[INFO ] 2024-10-03 14:21:07.499 - =================================== END TEST ===================================

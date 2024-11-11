@@ -1,0 +1,44 @@
+[INFO ] 2024-11-11 16:22:29.579 - =================================== START TEST ===================================
+[INFO ] 2024-11-11 16:22:29.586 - Test Case report initialize for TestCase010
+[INFO ] 2024-11-11 16:23:09.310 - PASSED - Step 1 - Moved to hoverMen.
+[INFO ] 2024-11-11 16:23:09.437 - PASSED - Step 2 - Moved to hoverTops.
+[INFO ] 2024-11-11 16:23:13.238 - PASSED - Step 3 - jackets was clicked.
+[INFO ] 2024-11-11 16:23:15.293 - PASSED - Step 4 - showCart was clicked.
+[INFO ] 2024-11-11 16:23:19.202 - PASSED - Step 5 - proteusJacket was clicked.
+[INFO ] 2024-11-11 16:23:21.261 - PASSED - Step 6 - proteusXS was clicked.
+[INFO ] 2024-11-11 16:23:23.324 - PASSED - Step 7 - proteusBlue was clicked.
+[INFO ] 2024-11-11 16:23:25.375 - PASSED - Step 8 - addToCart was clicked.
+[INFO ] 2024-11-11 16:23:30.432 - PASSED - Step 9 - showCart was clicked.
+[INFO ] 2024-11-11 16:23:36.972 - PASSED - Step 10 - checkout was clicked.
+[INFO ] 2024-11-11 16:23:39.293 - PASSED - Step 11 - guestEmail is populated with testdoe1234@gmail.com.
+[INFO ] 2024-11-11 16:23:39.348 - PASSED - Step 12 - firstName is populated with Maximina.
+[INFO ] 2024-11-11 16:23:39.414 - PASSED - Step 13 - lastName is populated with Bergstrom.
+[INFO ] 2024-11-11 16:23:39.490 - PASSED - Step 14 - company is populated with Test Company.
+[INFO ] 2024-11-11 16:23:39.551 - PASSED - Step 15 - address is populated with Address 1.
+[INFO ] 2024-11-11 16:23:39.610 - PASSED - Step 16 - city is populated with Test City.
+[INFO ] 2024-11-11 16:23:39.689 - PASSED - Step 17 - country is selected with visible text: Philippines
+[INFO ] 2024-11-11 16:23:41.740 - PASSED - Step 18 - country was clicked.
+[INFO ] 2024-11-11 16:23:43.831 - PASSED - Step 19 - province is populated with Cavite.
+[INFO ] 2024-11-11 16:23:43.902 - PASSED - Step 20 - zipCode is populated with 3120.
+[INFO ] 2024-11-11 16:23:43.984 - PASSED - Step 21 - phone is populated with 091234567890.
+[INFO ] 2024-11-11 16:23:46.054 - PASSED - Step 22 - next was clicked.
+[INFO ] 2024-11-11 16:23:48.839 - PASSED - Step 23 - placeOrder was clicked.
+[ERROR] 2024-11-11 16:24:01.440 - FAILED - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a [contains(@class,"order-number")]"}
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [920a1088f6f7c55fe04129f7b77b9cd5, findElement {using=xpath, value=//a [contains(@class,"order-number")]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53545}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53545/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a1088f6f7c55fe04129f7b77b9cd5
+[INFO ] 2024-11-11 16:24:01.441 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a [contains(@class,"order-number")]"}
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [920a1088f6f7c55fe04129f7b77b9cd5, findElement {using=xpath, value=//a [contains(@class,"order-number")]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53545}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53545/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a1088f6f7c55fe04129f7b77b9cd5
+[INFO ] 2024-11-11 16:24:01.442 - =================================== END TEST ===================================

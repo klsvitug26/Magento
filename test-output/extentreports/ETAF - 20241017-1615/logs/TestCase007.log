@@ -1,0 +1,32 @@
+[INFO ] 2024-10-17 16:15:15.320 - =================================== START TEST ===================================
+[INFO ] 2024-10-17 16:15:15.326 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-17 16:15:54.658 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-17 16:15:54.919 - PASSED - Step 2 - email is populated with johndoe1@gmail.com.
+[INFO ] 2024-10-17 16:15:55.013 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-17 16:15:55.021 - PASSED - Step 4 - Scrolled to position: x = 0, y = 300
+[INFO ] 2024-10-17 16:16:01.473 - PASSED - Step 5 - logIn was clicked.
+[INFO ] 2024-10-17 16:16:03.588 - PASSED - Step 6 - menuDropdown was clicked.
+[INFO ] 2024-10-17 16:16:07.807 - PASSED - Step 7 - myAccount was clicked.
+[INFO ] 2024-10-17 16:16:11.801 - PASSED - Step 8 - addressBook was clicked.
+[INFO ] 2024-10-17 16:16:15.631 - PASSED - Step 9 - addAddress was clicked.
+[INFO ] 2024-10-17 16:16:15.811 - PASSED - Step 10 - newCompany is populated with New Company 1.
+[INFO ] 2024-10-17 16:16:16.076 - PASSED - Step 11 - newStreet is populated with New Address 1.
+[INFO ] 2024-10-17 16:16:16.265 - PASSED - Step 12 - newCity is populated with New City 1.
+[INFO ] 2024-10-17 16:16:18.400 - PASSED - Step 13 - country was clicked.
+[ERROR] 2024-10-17 16:16:23.091 - FAILED - org.openqa.selenium.JavascriptException: javascript error: {"status":60,"value":"[object HTMLOptionElement] has no size and location"}
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c2b6f71009496120477244b8e230a518, actions {actions=[org.openqa.selenium.interactions.Sequence@6ae6d078]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50009}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50009/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c2b6f71009496120477244b8e230a518
+[INFO ] 2024-10-17 16:16:23.094 - org.openqa.selenium.JavascriptException: javascript error: {"status":60,"value":"[object HTMLOptionElement] has no size and location"}
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c2b6f71009496120477244b8e230a518, actions {actions=[org.openqa.selenium.interactions.Sequence@6ae6d078]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50009}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50009/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c2b6f71009496120477244b8e230a518
+[INFO ] 2024-10-17 16:16:23.094 - =================================== END TEST ===================================

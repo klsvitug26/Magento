@@ -1,0 +1,38 @@
+[INFO ] 2024-10-02 13:59:42.871 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 13:59:42.879 - Test Case report initialize for TestCase002
+[INFO ] 2024-10-02 13:59:48.286 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 13:59:48.478 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 13:59:48.529 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 13:59:49.940 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 13:59:50.187 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 13:59:50.356 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 13:59:54.702 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 13:59:56.760 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:00:03.820 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:00:05.879 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:00:07.939 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:00:10.000 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:00:12.077 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:00:15.290 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-10-02 14:00:25.131 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-10-02 14:00:25.183 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-10-02 14:00:25.243 - PASSED - Step 17 - city is populated with Test City.
+[ERROR] 2024-10-02 14:00:40.987 - FAILED - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='region_id']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9e88234be3ee9521b7d4ff1744c4bb5f, findElement {using=xpath, value=//input[@name='region_id']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58402}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58402/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e88234be3ee9521b7d4ff1744c4bb5f
+[INFO ] 2024-10-02 14:00:40.988 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='region_id']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9e88234be3ee9521b7d4ff1744c4bb5f, findElement {using=xpath, value=//input[@name='region_id']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58402}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58402/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e88234be3ee9521b7d4ff1744c4bb5f
+[INFO ] 2024-10-02 14:00:40.988 - =================================== END TEST ===================================

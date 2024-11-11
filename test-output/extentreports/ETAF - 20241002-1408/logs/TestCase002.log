@@ -1,0 +1,25 @@
+[INFO ] 2024-10-02 14:08:38.039 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 14:08:38.045 - Test Case report initialize for TestCase002
+[INFO ] 2024-10-02 14:08:43.111 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 14:08:43.296 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 14:08:43.350 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 14:08:44.464 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 14:08:44.681 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 14:08:44.834 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 14:08:47.434 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 14:08:49.504 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:08:52.181 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:08:54.249 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:08:56.374 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:08:58.438 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:09:00.531 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:09:04.091 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-10-02 14:09:06.015 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-10-02 14:09:06.064 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-10-02 14:09:06.113 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-10-02 14:09:08.179 - PASSED - Step 18 - province was clicked.
+[INFO ] 2024-10-02 14:09:10.244 - PASSED - Step 19 - province was clicked.
+[INFO ] 2024-10-02 14:09:10.289 - PASSED - Step 20 - zipCode is populated with 3120.
+[INFO ] 2024-10-02 14:09:12.367 - PASSED - Step 21 - country was clicked.
+[INFO ] 2024-10-02 14:09:14.430 - PASSED - Step 22 - country was clicked.
+[INFO ] 2024-10-02 14:09:14.432 - =================================== END TEST ===================================

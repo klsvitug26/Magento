@@ -1,0 +1,40 @@
+[INFO ] 2024-10-02 14:31:41.393 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 14:31:41.404 - Test Case report initialize for TestCase003
+[INFO ] 2024-10-02 14:31:46.980 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 14:31:47.135 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 14:31:47.180 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 14:31:48.567 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 14:31:48.802 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 14:31:48.970 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 14:31:51.981 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 14:31:54.047 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:31:56.942 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:31:59.000 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:32:01.060 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:32:03.129 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:32:05.184 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:32:08.405 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-10-02 14:32:12.490 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-10-02 14:32:12.548 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-10-02 14:32:12.608 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-10-02 14:32:14.660 - PASSED - Step 18 - country was clicked.
+[INFO ] 2024-10-02 14:32:16.737 - PASSED - Step 19 - country was clicked.
+[ERROR] 2024-10-02 14:32:30.480 - FAILED - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e77eff0ef827afbb1d14a5cecb9a6925, sendKeysToElement {id=f.10D867460C76147DAF1A87C6FD7C4041.d.4A446A9CE856DF0B672A546AE1917EE5.e.372, value=[Ljava.lang.CharSequence;@213ceb4e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62471}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62471/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e77eff0ef827afbb1d14a5cecb9a6925)] -> xpath: //select[@name="region_id"]]
+Session ID: e77eff0ef827afbb1d14a5cecb9a6925
+[INFO ] 2024-10-02 14:32:30.481 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e77eff0ef827afbb1d14a5cecb9a6925, sendKeysToElement {id=f.10D867460C76147DAF1A87C6FD7C4041.d.4A446A9CE856DF0B672A546AE1917EE5.e.372, value=[Ljava.lang.CharSequence;@213ceb4e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62471}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62471/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e77eff0ef827afbb1d14a5cecb9a6925)] -> xpath: //select[@name="region_id"]]
+Session ID: e77eff0ef827afbb1d14a5cecb9a6925
+[INFO ] 2024-10-02 14:32:30.482 - =================================== END TEST ===================================

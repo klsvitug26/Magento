@@ -1,0 +1,19 @@
+[INFO ] 2024-10-02 16:14:17.991 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 16:14:18.010 - Test Case report initialize for TestCase004
+[INFO ] 2024-10-02 16:14:23.420 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 16:14:23.685 - PASSED - Step 2 - email is populated with johndoe2@gmail.com.
+[INFO ] 2024-10-02 16:14:23.759 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 16:14:25.064 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 16:14:25.293 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 16:14:25.452 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 16:14:28.124 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 16:14:30.267 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 16:14:33.439 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 16:14:35.526 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 16:14:37.630 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 16:14:39.730 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 16:14:41.891 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 16:14:46.024 - PASSED - Step 14 - viewEditCart was clicked.
+[INFO ] 2024-10-02 16:14:49.584 - PASSED - Step 15 - deleteProduct was clicked.
+[INFO ] 2024-10-02 16:14:49.709 - PASSED - Step 16 - validateProductIsDeleted is displayed.
+[INFO ] 2024-10-02 16:14:49.710 - =================================== END TEST ===================================

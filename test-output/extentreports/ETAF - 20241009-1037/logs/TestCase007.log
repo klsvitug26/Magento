@@ -1,0 +1,32 @@
+[INFO ] 2024-10-09 10:37:54.902 - =================================== START TEST ===================================
+[INFO ] 2024-10-09 10:37:54.912 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-09 10:38:27.487 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-09 10:38:27.810 - PASSED - Step 2 - email is populated with tc05@test.com.
+[INFO ] 2024-10-09 10:38:27.905 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-09 10:38:29.121 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-09 10:38:29.365 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-09 10:38:29.509 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-09 10:38:32.324 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-09 10:38:35.575 - PASSED - Step 8 - proteusJacket was clicked.
+[INFO ] 2024-10-09 10:38:37.678 - PASSED - Step 9 - proteusXS was clicked.
+[INFO ] 2024-10-09 10:38:39.745 - PASSED - Step 10 - proteusBlue was clicked.
+[INFO ] 2024-10-09 10:38:41.844 - PASSED - Step 11 - review was clicked.
+[ERROR] 2024-10-09 10:38:50.161 - FAILED - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <label class="rating-4" for="Rating_4" title="4 stars" id="Rating_4_label">...</label> is not clickable at point (259, 232). Other element would receive the click: <label class="rating-2" for="Rating_2" title="2 stars" id="Rating_2_label">...</label>
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d7e00c389b8024aee69fa5e1849d023, clickElement {id=f.4AF66AB42ADB439C880A2704E196CF2E.d.94D7887A4797FDD16B8BB2A60EEDF1A1.e.345}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54200}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54200/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d7e00c389b8024aee69fa5e1849d023)] -> xpath: //label [@title="4 stars"]]
+Session ID: 1d7e00c389b8024aee69fa5e1849d023
+[INFO ] 2024-10-09 10:38:50.162 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <label class="rating-4" for="Rating_4" title="4 stars" id="Rating_4_label">...</label> is not clickable at point (259, 232). Other element would receive the click: <label class="rating-2" for="Rating_2" title="2 stars" id="Rating_2_label">...</label>
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d7e00c389b8024aee69fa5e1849d023, clickElement {id=f.4AF66AB42ADB439C880A2704E196CF2E.d.94D7887A4797FDD16B8BB2A60EEDF1A1.e.345}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54200}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54200/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d7e00c389b8024aee69fa5e1849d023)] -> xpath: //label [@title="4 stars"]]
+Session ID: 1d7e00c389b8024aee69fa5e1849d023
+[INFO ] 2024-10-09 10:38:50.163 - =================================== END TEST ===================================

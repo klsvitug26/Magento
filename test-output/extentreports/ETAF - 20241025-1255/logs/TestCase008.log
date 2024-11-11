@@ -1,0 +1,41 @@
+[INFO ] 2024-10-25 12:55:24.038 - =================================== START TEST ===================================
+[INFO ] 2024-10-25 12:55:24.052 - Test Case report initialize for TestCase008
+[INFO ] 2024-10-25 12:56:12.967 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-25 12:56:13.285 - PASSED - Step 2 - email is populated with janedoe123@gmail.com.
+[INFO ] 2024-10-25 12:56:13.360 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-25 12:56:18.406 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-25 12:56:18.602 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-25 12:56:18.758 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-25 12:56:24.668 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-25 12:56:26.779 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-25 12:56:33.913 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-25 12:56:36.771 - PASSED - Step 10 - proteusXS was clicked.
+[ERROR] 2024-10-25 12:56:38.858 - Report Screenshot Error Exception: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.103)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6d159efc8a275d2e2a27151cce19f22, executeScript {script=return Math.max(document.body.scrollHeight, document.body.offsetHeight,
+    document.documentElement.clientHeight, document.documentElement.scrollHeight, document.documentElement.offsetHeight);, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.103, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59764}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59764/devtoo..., se:cdpVersion: 129.0.6668.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6d159efc8a275d2e2a27151cce19f22
+[ERROR] 2024-10-25 12:56:38.859 - FAILED - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.103)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6d159efc8a275d2e2a27151cce19f22, findElement {using=xpath, value=//div[@id='option-label-color-93-item-50']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.103, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59764}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59764/devtoo..., se:cdpVersion: 129.0.6668.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6d159efc8a275d2e2a27151cce19f22
+[INFO ] 2024-10-25 12:56:38.862 - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.103)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6d159efc8a275d2e2a27151cce19f22, findElement {using=xpath, value=//div[@id='option-label-color-93-item-50']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.103, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59764}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59764/devtoo..., se:cdpVersion: 129.0.6668.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6d159efc8a275d2e2a27151cce19f22
+[INFO ] 2024-10-25 12:56:38.864 - =================================== END TEST ===================================

@@ -1,0 +1,49 @@
+[INFO ] 2024-11-06 15:57:57.004 - =================================== START TEST ===================================
+[INFO ] 2024-11-06 15:57:57.020 - Test Case report initialize for TestCase005
+[INFO ] 2024-11-06 15:58:35.714 - PASSED - Step 1 - Moved to hoverMen.
+[INFO ] 2024-11-06 15:58:35.940 - PASSED - Step 2 - Moved to hoverTops.
+[INFO ] 2024-11-06 15:58:39.972 - PASSED - Step 3 - jackets was clicked.
+[INFO ] 2024-11-06 15:58:42.013 - PASSED - Step 4 - showCart was clicked.
+[INFO ] 2024-11-06 15:58:48.414 - PASSED - Step 5 - proteusJacket was clicked.
+[INFO ] 2024-11-06 15:58:50.474 - PASSED - Step 6 - proteusXS was clicked.
+[INFO ] 2024-11-06 15:58:52.568 - PASSED - Step 7 - proteusBlue was clicked.
+[INFO ] 2024-11-06 15:58:54.624 - PASSED - Step 8 - addToCart was clicked.
+[INFO ] 2024-11-06 15:58:59.674 - PASSED - Step 9 - showCart was clicked.
+[INFO ] 2024-11-06 15:59:06.697 - PASSED - Step 10 - checkout was clicked.
+[INFO ] 2024-11-06 15:59:09.060 - PASSED - Step 11 - guestEmail is populated with testdoe1234@gmail.com.
+[INFO ] 2024-11-06 15:59:09.162 - PASSED - Step 12 - firstName is populated with Rodrigo.
+[INFO ] 2024-11-06 15:59:09.256 - PASSED - Step 13 - lastName is populated with Goyette.
+[INFO ] 2024-11-06 15:59:09.360 - PASSED - Step 14 - company is populated with Test Company.
+[INFO ] 2024-11-06 15:59:09.454 - PASSED - Step 15 - address is populated with Address 1.
+[INFO ] 2024-11-06 15:59:09.582 - PASSED - Step 16 - city is populated with Test City.
+[INFO ] 2024-11-06 15:59:11.611 - PASSED - Step 17 - country was clicked.
+[INFO ] 2024-11-06 15:59:13.650 - PASSED - Step 18 - country was clicked.
+[ERROR] 2024-11-06 15:59:15.775 - Report Screenshot Error Exception: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8b8f2dae377eb7d4eb03611e50e9762, executeScript {script=return Math.max(document.body.scrollHeight, document.body.offsetHeight,
+    document.documentElement.clientHeight, document.documentElement.scrollHeight, document.documentElement.offsetHeight);, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.93 (dbcf0550c05e..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59466}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59466/devtoo..., se:cdpVersion: 130.0.6723.92, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8b8f2dae377eb7d4eb03611e50e9762
+[ERROR] 2024-11-06 15:59:15.776 - FAILED - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8b8f2dae377eb7d4eb03611e50e9762, findElement {using=xpath, value=//input[@name="region"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.93 (dbcf0550c05e..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59466}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59466/devtoo..., se:cdpVersion: 130.0.6723.92, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8b8f2dae377eb7d4eb03611e50e9762
+[INFO ] 2024-11-06 15:59:15.779 - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8b8f2dae377eb7d4eb03611e50e9762, findElement {using=xpath, value=//input[@name="region"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.93 (dbcf0550c05e..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59466}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59466/devtoo..., se:cdpVersion: 130.0.6723.92, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8b8f2dae377eb7d4eb03611e50e9762
+[INFO ] 2024-11-06 15:59:15.780 - =================================== END TEST ===================================

@@ -1,0 +1,33 @@
+[INFO ] 2024-10-09 11:15:38.758 - =================================== START TEST ===================================
+[INFO ] 2024-10-09 11:15:38.764 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-09 11:16:11.021 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-09 11:16:11.281 - PASSED - Step 2 - email is populated with tc05@test.com.
+[INFO ] 2024-10-09 11:16:11.333 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-09 11:16:12.581 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-09 11:16:12.802 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-09 11:16:12.945 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-09 11:16:15.816 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-09 11:16:18.761 - PASSED - Step 8 - proteusJacket was clicked.
+[INFO ] 2024-10-09 11:16:20.804 - PASSED - Step 9 - review was clicked.
+[INFO ] 2024-10-09 11:16:22.914 - PASSED - Step 10 - nickname is populated with Test Summary.
+[INFO ] 2024-10-09 11:16:24.989 - PASSED - Step 11 - nickname is populated with Test Description.
+[INFO ] 2024-10-09 11:16:27.066 - PASSED - Step 12 - nickname was clicked.
+[ERROR] 2024-10-09 11:16:42.015 - FAILED - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='You submitted your review for moderation.']"}
+  (Session info: chrome=129.0.6668.90)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19b4d04940f0296476a4e7859ca6eea, findElement {using=xpath, value=//div[text()='You submitted your review for moderation.']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59791}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59791/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19b4d04940f0296476a4e7859ca6eea
+[INFO ] 2024-10-09 11:16:42.017 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='You submitted your review for moderation.']"}
+  (Session info: chrome=129.0.6668.90)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19b4d04940f0296476a4e7859ca6eea, findElement {using=xpath, value=//div[text()='You submitted your review for moderation.']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59791}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59791/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19b4d04940f0296476a4e7859ca6eea
+[INFO ] 2024-10-09 11:16:42.017 - =================================== END TEST ===================================

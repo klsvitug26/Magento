@@ -1,0 +1,25 @@
+[INFO ] 2024-10-04 14:28:09.671 - =================================== START TEST ===================================
+[INFO ] 2024-10-04 14:28:09.674 - Test Case report initialize for TestCase001
+[INFO ] 2024-10-04 14:28:16.122 - PASSED - Step 1 - createAccount was clicked.
+[INFO ] 2024-10-04 14:28:16.311 - PASSED - Step 2 - firstname is populated with Connie.
+[INFO ] 2024-10-04 14:28:16.358 - PASSED - Step 3 - lastName is populated with Kuhic.
+[INFO ] 2024-10-04 14:28:16.409 - PASSED - Step 4 - emailAddress is populated with qwerty123@test.com.
+[INFO ] 2024-10-04 14:28:16.450 - PASSED - Step 5 - password is populated with Qwerty!123.
+[INFO ] 2024-10-04 14:28:16.493 - PASSED - Step 6 - conPassword is populated with Qwerty!123.
+[INFO ] 2024-10-04 14:28:19.184 - PASSED - Step 7 - createButton was clicked.
+[INFO ] 2024-10-04 14:28:20.237 - PASSED - Step 8 - validateNewUser is displayed.
+[INFO ] 2024-10-04 14:28:20.238 - =================================== END TEST ===================================
+[INFO ] 2024-10-04 14:28:46.465 - =================================== START TEST ===================================
+[INFO ] 2024-10-04 14:28:46.466 - Test Case report initialize for TestCase001
+[ERROR] 2024-10-04 14:28:47.514 - Report Screenshot Error Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [255739c373316c9a0fe4c4d78f79542d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60735}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60735/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 255739c373316c9a0fe4c4d78f79542d
+[ERROR] 2024-10-04 14:28:47.515 - FAILED - java.lang.NullPointerException: null value in entry: url=null
+[INFO ] 2024-10-04 14:28:47.515 - java.lang.NullPointerException: null value in entry: url=null
+[INFO ] 2024-10-04 14:28:47.515 - =================================== END TEST ===================================

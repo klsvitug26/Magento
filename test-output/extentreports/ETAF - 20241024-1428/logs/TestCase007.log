@@ -1,0 +1,23 @@
+[INFO ] 2024-10-24 14:28:56.192 - =================================== START TEST ===================================
+[INFO ] 2024-10-24 14:28:56.197 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-24 14:29:39.663 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-24 14:29:39.818 - PASSED - Step 2 - email is populated with johndoe1@gmail.com.
+[INFO ] 2024-10-24 14:29:39.875 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-24 14:29:39.882 - PASSED - Step 4 - Scrolled to position: x = 0, y = 300
+[INFO ] 2024-10-24 14:29:44.147 - PASSED - Step 5 - logIn was clicked.
+[INFO ] 2024-10-24 14:29:46.240 - PASSED - Step 6 - menuDropdown was clicked.
+[INFO ] 2024-10-24 14:29:53.082 - PASSED - Step 7 - myAccount was clicked.
+[INFO ] 2024-10-24 14:29:59.160 - PASSED - Step 8 - addressBook was clicked.
+[INFO ] 2024-10-24 14:30:02.843 - PASSED - Step 9 - addAddress was clicked.
+[INFO ] 2024-10-24 14:30:02.890 - PASSED - Step 10 - Scrolled to position: x = 0, y = 400
+[INFO ] 2024-10-24 14:30:02.957 - PASSED - Step 11 - newCompany is populated with New Company 1.
+[INFO ] 2024-10-24 14:30:03.014 - PASSED - Step 12 - newPhoneNumber is populated with 091234567899.
+[INFO ] 2024-10-24 14:30:03.079 - PASSED - Step 13 - newStreet is populated with New Address 1.
+[INFO ] 2024-10-24 14:30:03.198 - PASSED - Step 14 - newCity is populated with New City 1.
+[INFO ] 2024-10-24 14:30:05.266 - PASSED - Step 15 - country was clicked.
+[INFO ] 2024-10-24 14:30:07.359 - PASSED - Step 16 - newCountry was clicked.
+[INFO ] 2024-10-24 14:30:09.464 - PASSED - Step 17 - newProvince is populated with Cavite.
+[INFO ] 2024-10-24 14:30:09.503 - PASSED - Step 18 - newZipCode is populated with 31201.
+[INFO ] 2024-10-24 14:30:15.397 - PASSED - Step 19 - saveAddress was clicked.
+[INFO ] 2024-10-24 14:30:15.455 - PASSED - Step 20 - validateNewAddress is displayed.
+[INFO ] 2024-10-24 14:30:15.456 - =================================== END TEST ===================================

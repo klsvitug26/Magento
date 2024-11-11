@@ -1,0 +1,31 @@
+[INFO ] 2024-10-03 14:12:40.661 - =================================== START TEST ===================================
+[INFO ] 2024-10-03 14:12:40.673 - Test Case report initialize for TestCase001
+[INFO ] 2024-10-03 14:12:42.427 - PASSED - Step 1 - Moved to hoverMen.
+[INFO ] 2024-10-03 14:12:42.573 - PASSED - Step 2 - Moved to hoverTops.
+[INFO ] 2024-10-03 14:12:45.261 - PASSED - Step 3 - jackets was clicked.
+[INFO ] 2024-10-03 14:12:47.337 - PASSED - Step 4 - showCart was clicked.
+[INFO ] 2024-10-03 14:12:50.025 - PASSED - Step 5 - proteusJacket was clicked.
+[INFO ] 2024-10-03 14:12:52.084 - PASSED - Step 6 - proteusSize was clicked.
+[INFO ] 2024-10-03 14:12:54.152 - PASSED - Step 7 - proteusColor was clicked.
+[INFO ] 2024-10-03 14:12:56.215 - PASSED - Step 8 - addToCart was clicked.
+[INFO ] 2024-10-03 14:12:58.271 - PASSED - Step 9 - showCart was clicked.
+[INFO ] 2024-10-03 14:13:01.917 - PASSED - Step 10 - checkout was clicked.
+[ERROR] 2024-10-03 14:13:15.814 - FAILED - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e549efea2e436298696fc68da413077f, sendKeysToElement {id=f.AD875E8B30AB0B6EAAAECF852B3C829B.d.646EAF7BAB19639ED6540FD18F046791.e.290, value=[Ljava.lang.CharSequence;@49bb808f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55916}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55916/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e549efea2e436298696fc68da413077f)] -> xpath: (//input[@id='customer-email'])[1]]
+Session ID: e549efea2e436298696fc68da413077f
+[INFO ] 2024-10-03 14:13:15.815 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e549efea2e436298696fc68da413077f, sendKeysToElement {id=f.AD875E8B30AB0B6EAAAECF852B3C829B.d.646EAF7BAB19639ED6540FD18F046791.e.290, value=[Ljava.lang.CharSequence;@49bb808f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55916}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55916/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e549efea2e436298696fc68da413077f)] -> xpath: (//input[@id='customer-email'])[1]]
+Session ID: e549efea2e436298696fc68da413077f
+[INFO ] 2024-10-03 14:13:15.815 - =================================== END TEST ===================================

@@ -1,0 +1,5 @@
+[INFO ] 2024-10-17 14:19:35.877 - =================================== START TEST ===================================
+[INFO ] 2024-10-17 14:19:35.884 - Test Case report initialize for TestCase007
+[ERROR] 2024-10-17 14:20:20.385 - FAILED - java.lang.ClassCastException: class java.lang.ThreadLocal cannot be cast to class org.openqa.selenium.JavascriptExecutor (java.lang.ThreadLocal is in module java.base of loader 'bootstrap'; org.openqa.selenium.JavascriptExecutor is in unnamed module of loader 'app')
+[INFO ] 2024-10-17 14:20:20.386 - java.lang.ClassCastException: class java.lang.ThreadLocal cannot be cast to class org.openqa.selenium.JavascriptExecutor (java.lang.ThreadLocal is in module java.base of loader 'bootstrap'; org.openqa.selenium.JavascriptExecutor is in unnamed module of loader 'app')
+[INFO ] 2024-10-17 14:20:20.389 - =================================== END TEST ===================================

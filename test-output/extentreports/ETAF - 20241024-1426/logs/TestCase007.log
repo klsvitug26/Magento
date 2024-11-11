@@ -1,0 +1,46 @@
+[INFO ] 2024-10-24 14:26:27.071 - =================================== START TEST ===================================
+[INFO ] 2024-10-24 14:26:27.082 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-24 14:27:12.941 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-24 14:27:13.098 - PASSED - Step 2 - email is populated with johndoe1@gmail.com.
+[INFO ] 2024-10-24 14:27:13.148 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-24 14:27:13.156 - PASSED - Step 4 - Scrolled to position: x = 0, y = 300
+[INFO ] 2024-10-24 14:27:18.490 - PASSED - Step 5 - logIn was clicked.
+[INFO ] 2024-10-24 14:27:20.554 - PASSED - Step 6 - menuDropdown was clicked.
+[INFO ] 2024-10-24 14:27:26.930 - PASSED - Step 7 - myAccount was clicked.
+[INFO ] 2024-10-24 14:27:32.923 - PASSED - Step 8 - addressBook was clicked.
+[INFO ] 2024-10-24 14:27:36.609 - PASSED - Step 9 - addAddress was clicked.
+[INFO ] 2024-10-24 14:27:36.653 - PASSED - Step 10 - Scrolled to position: x = 0, y = 400
+[INFO ] 2024-10-24 14:27:36.717 - PASSED - Step 11 - newCompany is populated with New Company 1.
+[INFO ] 2024-10-24 14:27:36.776 - PASSED - Step 12 - newPhoneNumber is populated with 091234567899.
+[INFO ] 2024-10-24 14:27:36.835 - PASSED - Step 13 - newStreet is populated with New Address 1.
+[INFO ] 2024-10-24 14:27:36.906 - PASSED - Step 14 - newCity is populated with New City 1.
+[INFO ] 2024-10-24 14:27:38.937 - PASSED - Step 15 - country was clicked.
+[INFO ] 2024-10-24 14:27:40.974 - PASSED - Step 16 - newCountry was clicked.
+[ERROR] 2024-10-24 14:27:54.301 - Report Screenshot Error Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.103)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a0f45b94724b6612210bc12fcf7ffe12, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.103, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55002}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55002/devtoo..., se:cdpVersion: 129.0.6668.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a0f45b94724b6612210bc12fcf7ffe12
+[ERROR] 2024-10-24 14:27:54.302 - FAILED - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.103)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a0f45b94724b6612210bc12fcf7ffe12, sendKeysToElement {id=f.95DF6F7D11AF8EACBEA923E547E58104.d.A3E414A50569BE319549B84A631420B5.e.266, value=[Ljava.lang.CharSequence;@591febcb}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.103, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55002}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55002/devtoo..., se:cdpVersion: 129.0.6668.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a0f45b94724b6612210bc12fcf7ffe12)] -> xpath: //input[@class="input-text validate-not-number-first"]]
+Session ID: a0f45b94724b6612210bc12fcf7ffe12
+[INFO ] 2024-10-24 14:27:54.307 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.103)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a0f45b94724b6612210bc12fcf7ffe12, sendKeysToElement {id=f.95DF6F7D11AF8EACBEA923E547E58104.d.A3E414A50569BE319549B84A631420B5.e.266, value=[Ljava.lang.CharSequence;@591febcb}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.103, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55002}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55002/devtoo..., se:cdpVersion: 129.0.6668.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a0f45b94724b6612210bc12fcf7ffe12)] -> xpath: //input[@class="input-text validate-not-number-first"]]
+Session ID: a0f45b94724b6612210bc12fcf7ffe12
+[INFO ] 2024-10-24 14:27:54.307 - =================================== END TEST ===================================

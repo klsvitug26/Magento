@@ -1,0 +1,32 @@
+[INFO ] 2024-10-24 10:27:29.175 - =================================== START TEST ===================================
+[INFO ] 2024-10-24 10:27:29.185 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-24 10:28:18.149 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-24 10:28:18.399 - PASSED - Step 2 - email is populated with johndoe1@gmail.com.
+[INFO ] 2024-10-24 10:28:18.496 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-24 10:28:18.507 - PASSED - Step 4 - Scrolled to position: x = 0, y = 300
+[INFO ] 2024-10-24 10:28:24.159 - PASSED - Step 5 - logIn was clicked.
+[INFO ] 2024-10-24 10:28:26.209 - PASSED - Step 6 - menuDropdown was clicked.
+[INFO ] 2024-10-24 10:28:33.022 - PASSED - Step 7 - myAccount was clicked.
+[INFO ] 2024-10-24 10:28:39.928 - PASSED - Step 8 - addressBook was clicked.
+[INFO ] 2024-10-24 10:29:33.890 - PASSED - Step 9 - addAddress was clicked.
+[INFO ] 2024-10-24 10:29:34.036 - PASSED - Step 10 - newCompany is populated with New Company 1.
+[INFO ] 2024-10-24 10:29:34.104 - PASSED - Step 11 - newStreet is populated with New Address 1.
+[ERROR] 2024-10-24 10:29:39.936 - FAILED - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <select name="country_id" id="country" class="required-entry" title="Country" data-validate="{'validate-select':true}">...</select> is not clickable at point (1154, 670). Other element would receive the click: <div id="aswift_1_host" style="border: none !important; height: 90px !important; width: 100% !important; margin: 0px !important; padding: 0px !important; position: relative !important; visibility: visible !important; background-color: transparent !important; display: inline-block !important; inset: auto !important; clear: none !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; vertical-align: baseline !important; z-index: auto !important;">...</div>
+  (Session info: chrome=129.0.6668.103)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [871bba03cb8d037c06ec2c7d485748b7, clickElement {id=f.9149C32C77111D8BCBA8AC4BE9965A0C.d.3A03571E60DFF71EAC4BF20950F67CAB.e.272}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.103, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55784}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55784/devtoo..., se:cdpVersion: 129.0.6668.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (871bba03cb8d037c06ec2c7d485748b7)] -> xpath: //select[@title='Country']]
+Session ID: 871bba03cb8d037c06ec2c7d485748b7
+[INFO ] 2024-10-24 10:29:39.939 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <select name="country_id" id="country" class="required-entry" title="Country" data-validate="{'validate-select':true}">...</select> is not clickable at point (1154, 670). Other element would receive the click: <div id="aswift_1_host" style="border: none !important; height: 90px !important; width: 100% !important; margin: 0px !important; padding: 0px !important; position: relative !important; visibility: visible !important; background-color: transparent !important; display: inline-block !important; inset: auto !important; clear: none !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; vertical-align: baseline !important; z-index: auto !important;">...</div>
+  (Session info: chrome=129.0.6668.103)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [871bba03cb8d037c06ec2c7d485748b7, clickElement {id=f.9149C32C77111D8BCBA8AC4BE9965A0C.d.3A03571E60DFF71EAC4BF20950F67CAB.e.272}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.103, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55784}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55784/devtoo..., se:cdpVersion: 129.0.6668.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (871bba03cb8d037c06ec2c7d485748b7)] -> xpath: //select[@title='Country']]
+Session ID: 871bba03cb8d037c06ec2c7d485748b7
+[INFO ] 2024-10-24 10:29:39.940 - =================================== END TEST ===================================

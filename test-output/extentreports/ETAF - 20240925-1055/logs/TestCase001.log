@@ -1,0 +1,5 @@
+[INFO ] 2024-09-25 10:55:55.888 - =================================== START TEST ===================================
+[INFO ] 2024-09-25 10:55:55.892 - Test Case report initialize for TestCase001
+[INFO ] 2024-09-25 10:56:00.946 - PASSED - Step 1 - createAccount was clicked.
+[INFO ] 2024-09-25 10:56:01.084 - PASSED - Step 2 - firstname is populated with Test.
+[INFO ] 2024-09-25 10:56:01.086 - =================================== END TEST ===================================

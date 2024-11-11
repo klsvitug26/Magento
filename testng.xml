@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="magento.TC01"/>
+      <class name="magento.TC02"/>
+      <class name="magento.TC03"/>
+      <class name="magento.TC04"/>
+      <class name="magento.TC05"/>
+      <class name="magento.TC06"/>
+      <class name="magento.TC07"/>
+      <class name="magento.TC08"/>
+      <class name="magento.TC09"/>
+      <class name="magento.TC10"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

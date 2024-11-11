@@ -1,0 +1,31 @@
+[INFO ] 2024-10-03 14:07:21.743 - =================================== START TEST ===================================
+[INFO ] 2024-10-03 14:07:21.750 - Test Case report initialize for TestCase001
+[INFO ] 2024-10-03 14:07:23.535 - PASSED - Step 1 - Moved to hoverMen.
+[INFO ] 2024-10-03 14:07:23.719 - PASSED - Step 2 - Moved to hoverTops.
+[INFO ] 2024-10-03 14:07:26.540 - PASSED - Step 3 - jackets was clicked.
+[INFO ] 2024-10-03 14:07:28.636 - PASSED - Step 4 - showCart was clicked.
+[INFO ] 2024-10-03 14:07:31.719 - PASSED - Step 5 - proteusJacket was clicked.
+[INFO ] 2024-10-03 14:07:33.815 - PASSED - Step 6 - proteusSize was clicked.
+[INFO ] 2024-10-03 14:07:35.914 - PASSED - Step 7 - proteusColor was clicked.
+[INFO ] 2024-10-03 14:07:37.970 - PASSED - Step 8 - addToCart was clicked.
+[INFO ] 2024-10-03 14:07:40.079 - PASSED - Step 9 - showCart was clicked.
+[INFO ] 2024-10-03 14:07:49.857 - PASSED - Step 10 - checkout was clicked.
+[ERROR] 2024-10-03 14:08:02.507 - FAILED - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='control _with-tooltip']//input[@id='customer-email']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [742f14efbb5f0caef95ecf33a38ee28c, findElement {using=xpath, value=//div[@class='control _with-tooltip']//input[@id='customer-email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55555}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55555/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 742f14efbb5f0caef95ecf33a38ee28c
+[INFO ] 2024-10-03 14:08:02.508 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='control _with-tooltip']//input[@id='customer-email']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [742f14efbb5f0caef95ecf33a38ee28c, findElement {using=xpath, value=//div[@class='control _with-tooltip']//input[@id='customer-email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55555}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55555/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 742f14efbb5f0caef95ecf33a38ee28c
+[INFO ] 2024-10-03 14:08:02.508 - =================================== END TEST ===================================

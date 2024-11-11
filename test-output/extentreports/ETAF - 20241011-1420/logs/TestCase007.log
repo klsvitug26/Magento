@@ -1,0 +1,30 @@
+[INFO ] 2024-10-11 14:20:22.211 - =================================== START TEST ===================================
+[INFO ] 2024-10-11 14:20:22.218 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-11 14:21:06.288 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-11 14:21:06.820 - PASSED - Step 2 - email is populated with tc05@test.com.
+[INFO ] 2024-10-11 14:21:06.971 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-11 14:21:06.990 - PASSED - Step 4 - Scrolled to position: x = 0, y = 300
+[INFO ] 2024-10-11 14:21:12.203 - PASSED - Step 5 - logIn was clicked.
+[INFO ] 2024-10-11 14:21:12.410 - PASSED - Step 6 - Moved to hoverMen.
+[INFO ] 2024-10-11 14:21:12.652 - PASSED - Step 7 - Moved to hoverTops.
+[INFO ] 2024-10-11 14:21:14.786 - PASSED - Step 8 - jackets was clicked.
+[INFO ] 2024-10-11 14:21:14.811 - PASSED - Step 9 - Scrolled to position: x = 0, y = 500
+[ERROR] 2024-10-11 14:21:27.828 - FAILED - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="product-item-link" href="https://magento.softwaretestingboard.com/proteus-fitness-jackshirt.html">...</a> is not clickable at point (506, 677). Other element would receive the click: <iframe id="aswift_1" name="aswift_1" browsingtopics="true" style="width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20241009/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-7399332034053978&amp;fa=1&amp;ifi=2&amp;uci=a!2&amp;btvi=1" data-google-container-id="a!2" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CKPv5vXXhYkDFUIfaAgd9xQnEw" data-load-complete="true"></iframe>
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3aba4b317d15b569af67d92c74cc6c2, clickElement {id=f.0EC55C13F6B4683E0E61B4BA320F1B1E.d.571BBC3E71DDCA0E49204B2DCC446FFB.e.168}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53308}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53308/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b3aba4b317d15b569af67d92c74cc6c2)] -> xpath: //a[normalize-space()='Proteus Fitness Jackshirt']]
+Session ID: b3aba4b317d15b569af67d92c74cc6c2
+[INFO ] 2024-10-11 14:21:27.831 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="product-item-link" href="https://magento.softwaretestingboard.com/proteus-fitness-jackshirt.html">...</a> is not clickable at point (506, 677). Other element would receive the click: <iframe id="aswift_1" name="aswift_1" browsingtopics="true" style="width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20241009/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-7399332034053978&amp;fa=1&amp;ifi=2&amp;uci=a!2&amp;btvi=1" data-google-container-id="a!2" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CKPv5vXXhYkDFUIfaAgd9xQnEw" data-load-complete="true"></iframe>
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3aba4b317d15b569af67d92c74cc6c2, clickElement {id=f.0EC55C13F6B4683E0E61B4BA320F1B1E.d.571BBC3E71DDCA0E49204B2DCC446FFB.e.168}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53308}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53308/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b3aba4b317d15b569af67d92c74cc6c2)] -> xpath: //a[normalize-space()='Proteus Fitness Jackshirt']]
+Session ID: b3aba4b317d15b569af67d92c74cc6c2
+[INFO ] 2024-10-11 14:21:27.832 - =================================== END TEST ===================================

@@ -1,0 +1,28 @@
+[INFO ] 2024-10-02 14:23:30.299 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 14:23:30.304 - Test Case report initialize for TestCase003
+[INFO ] 2024-10-02 14:23:35.504 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 14:23:35.705 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 14:23:35.755 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 14:23:37.041 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 14:23:37.266 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 14:23:37.422 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 14:23:40.320 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 14:23:42.405 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:23:45.093 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:23:47.188 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:23:49.240 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:23:51.347 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:23:53.436 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:23:56.777 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-10-02 14:23:58.643 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-10-02 14:23:58.701 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-10-02 14:23:58.759 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-10-02 14:24:00.823 - PASSED - Step 18 - province was clicked.
+[INFO ] 2024-10-02 14:24:02.893 - PASSED - Step 19 - province was clicked.
+[INFO ] 2024-10-02 14:24:02.933 - PASSED - Step 20 - zipCode is populated with 3120.
+[INFO ] 2024-10-02 14:24:05.036 - PASSED - Step 21 - country was clicked.
+[INFO ] 2024-10-02 14:24:07.091 - PASSED - Step 22 - country was clicked.
+[INFO ] 2024-10-02 14:24:07.162 - PASSED - Step 23 - phone is populated with 091234567890.
+[INFO ] 2024-10-02 14:24:09.201 - PASSED - Step 24 - flatRate was clicked.
+[INFO ] 2024-10-02 14:24:11.287 - PASSED - Step 25 - next was clicked.
+[INFO ] 2024-10-02 14:24:11.289 - =================================== END TEST ===================================

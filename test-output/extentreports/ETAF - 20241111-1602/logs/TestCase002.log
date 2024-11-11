@@ -1,0 +1,18 @@
+[INFO ] 2024-11-11 16:02:34.610 - =================================== START TEST ===================================
+[INFO ] 2024-11-11 16:02:34.626 - Test Case report initialize for TestCase002
+[INFO ] 2024-11-11 16:03:15.090 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-11-11 16:03:15.285 - PASSED - Step 2 - email is populated with emailtwo@gmail.com.
+[INFO ] 2024-11-11 16:03:15.340 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-11-11 16:03:18.003 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-11-11 16:03:18.163 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-11-11 16:03:18.307 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-11-11 16:03:21.791 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-11-11 16:03:23.854 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-11-11 16:03:27.717 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-11-11 16:03:29.789 - PASSED - Step 10 - proteusXS was clicked.
+[INFO ] 2024-11-11 16:03:31.818 - PASSED - Step 11 - proteusBlue was clicked.
+[INFO ] 2024-11-11 16:03:33.877 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-11-11 16:03:35.957 - PASSED - Step 13 - validateProductAdded is displayed.
+[INFO ] 2024-11-11 16:03:37.997 - PASSED - Step 14 - showCart was clicked.
+[INFO ] 2024-11-11 16:03:38.027 - PASSED - Step 15 - validateItem is displayed.
+[INFO ] 2024-11-11 16:03:38.029 - =================================== END TEST ===================================

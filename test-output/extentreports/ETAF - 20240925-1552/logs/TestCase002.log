@@ -1,0 +1,10 @@
+[INFO ] 2024-09-25 15:52:10.792 - =================================== START TEST ===================================
+[INFO ] 2024-09-25 15:52:10.797 - Test Case report initialize for TestCase002
+[INFO ] 2024-09-25 15:52:15.663 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-09-25 15:52:15.844 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-09-25 15:52:15.887 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-09-25 15:52:17.147 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-09-25 15:52:17.375 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-09-25 15:52:17.530 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-09-25 15:52:20.187 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-09-25 15:52:20.188 - =================================== END TEST ===================================

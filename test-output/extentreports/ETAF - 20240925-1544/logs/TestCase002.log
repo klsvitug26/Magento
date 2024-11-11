@@ -1,0 +1,13 @@
+[INFO ] 2024-09-25 15:44:02.591 - =================================== START TEST ===================================
+[INFO ] 2024-09-25 15:44:02.597 - Test Case report initialize for TestCase002
+[INFO ] 2024-09-25 15:44:08.306 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-09-25 15:44:08.513 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-09-25 15:44:08.557 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-09-25 15:44:09.934 - PASSED - Step 4 - logIn was clicked.
+[ERROR] 2024-09-25 15:44:16.301 - FAILED - java.lang.Error: Unresolved compilation problem: 
+	The method moveToElement(String, By) in the type ActionDriver.WebActions is not applicable for the arguments (WebDriver, By)
+
+[INFO ] 2024-09-25 15:44:16.303 - java.lang.Error: Unresolved compilation problem: 
+	The method moveToElement(String, By) in the type ActionDriver.WebActions is not applicable for the arguments (WebDriver, By)
+
+[INFO ] 2024-09-25 15:44:16.303 - =================================== END TEST ===================================

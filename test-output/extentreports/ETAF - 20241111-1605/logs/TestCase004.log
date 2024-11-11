@@ -1,0 +1,28 @@
+[INFO ] 2024-11-11 16:05:22.874 - =================================== START TEST ===================================
+[INFO ] 2024-11-11 16:05:22.883 - Test Case report initialize for TestCase004
+[INFO ] 2024-11-11 16:06:04.322 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-11-11 16:06:04.557 - PASSED - Step 2 - email is populated with email4@gmail.com.
+[INFO ] 2024-11-11 16:06:04.621 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-11-11 16:06:07.198 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-11-11 16:06:07.359 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-11-11 16:06:07.484 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-11-11 16:06:11.072 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-11-11 16:06:13.127 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-11-11 16:06:16.990 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-11-11 16:06:19.047 - PASSED - Step 10 - proteusXS was clicked.
+[INFO ] 2024-11-11 16:06:21.106 - PASSED - Step 11 - proteusBlue was clicked.
+[INFO ] 2024-11-11 16:06:23.148 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-11-11 16:06:25.190 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-11-11 16:06:32.121 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-11-11 16:06:33.821 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-11-11 16:06:33.914 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-11-11 16:06:34.001 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-11-11 16:06:34.142 - PASSED - Step 18 - country is selected with visible text: Philippines
+[INFO ] 2024-11-11 16:06:36.204 - PASSED - Step 19 - country was clicked.
+[INFO ] 2024-11-11 16:06:38.298 - PASSED - Step 20 - province is populated with Cavite.
+[INFO ] 2024-11-11 16:06:38.389 - PASSED - Step 21 - zipCode is populated with 3120.
+[INFO ] 2024-11-11 16:06:38.463 - PASSED - Step 22 - phone is populated with 091234567890.
+[INFO ] 2024-11-11 16:06:40.490 - PASSED - Step 23 - next was clicked.
+[INFO ] 2024-11-11 16:06:44.161 - PASSED - Step 24 - placeOrder was clicked.
+[INFO ] 2024-11-11 16:06:48.041 - PASSED - Step 25 - validateOrderNumber is displayed.
+[INFO ] 2024-11-11 16:06:48.048 - =================================== END TEST ===================================

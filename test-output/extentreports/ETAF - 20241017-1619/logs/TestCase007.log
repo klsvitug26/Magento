@@ -1,0 +1,35 @@
+[INFO ] 2024-10-17 16:19:24.557 - =================================== START TEST ===================================
+[INFO ] 2024-10-17 16:19:24.569 - Test Case report initialize for TestCase007
+[INFO ] 2024-10-17 16:20:05.577 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-17 16:20:05.850 - PASSED - Step 2 - email is populated with johndoe1@gmail.com.
+[INFO ] 2024-10-17 16:20:05.928 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-17 16:20:05.935 - PASSED - Step 4 - Scrolled to position: x = 0, y = 300
+[INFO ] 2024-10-17 16:20:08.081 - PASSED - Step 5 - logIn was clicked.
+[INFO ] 2024-10-17 16:20:10.203 - PASSED - Step 6 - menuDropdown was clicked.
+[INFO ] 2024-10-17 16:20:18.490 - PASSED - Step 7 - myAccount was clicked.
+[INFO ] 2024-10-17 16:20:22.389 - PASSED - Step 8 - addressBook was clicked.
+[INFO ] 2024-10-17 16:20:26.251 - PASSED - Step 9 - addAddress was clicked.
+[INFO ] 2024-10-17 16:20:26.414 - PASSED - Step 10 - newCompany is populated with New Company 1.
+[INFO ] 2024-10-17 16:20:26.522 - PASSED - Step 11 - newStreet is populated with New Address 1.
+[INFO ] 2024-10-17 16:20:26.636 - PASSED - Step 12 - newCity is populated with New City 1.
+[INFO ] 2024-10-17 16:20:28.766 - PASSED - Step 13 - country was clicked.
+[INFO ] 2024-10-17 16:20:30.844 - PASSED - Step 14 - newCountry was clicked.
+[ERROR] 2024-10-17 16:20:45.579 - FAILED - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8ec02b5a0fb6b04c8fbdd248f4205151, sendKeysToElement {id=f.6E309A2270DE0AE7540ED5ED41502AD4.d.5C57E56E6831A7CA806C99D824BFB700.e.206, value=[Ljava.lang.CharSequence;@1be12e05}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50428}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50428/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (8ec02b5a0fb6b04c8fbdd248f4205151)] -> xpath: //select[@title='State/Province']]
+Session ID: 8ec02b5a0fb6b04c8fbdd248f4205151
+[INFO ] 2024-10-17 16:20:45.580 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8ec02b5a0fb6b04c8fbdd248f4205151, sendKeysToElement {id=f.6E309A2270DE0AE7540ED5ED41502AD4.d.5C57E56E6831A7CA806C99D824BFB700.e.206, value=[Ljava.lang.CharSequence;@1be12e05}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50428}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50428/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (8ec02b5a0fb6b04c8fbdd248f4205151)] -> xpath: //select[@title='State/Province']]
+Session ID: 8ec02b5a0fb6b04c8fbdd248f4205151
+[INFO ] 2024-10-17 16:20:45.580 - =================================== END TEST ===================================

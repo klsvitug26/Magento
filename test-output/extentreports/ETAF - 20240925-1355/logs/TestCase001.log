@@ -1,0 +1,12 @@
+[INFO ] 2024-09-25 13:55:40.102 - =================================== START TEST ===================================
+[INFO ] 2024-09-25 13:55:40.112 - Test Case report initialize for TestCase001
+[INFO ] 2024-09-25 13:55:45.017 - PASSED - Step 1 - createAccount was clicked.
+[INFO ] 2024-09-25 13:55:45.213 - PASSED - Step 2 - firstname is populated with Efren.
+[INFO ] 2024-09-25 13:55:45.268 - PASSED - Step 3 - lastName is populated with McDermott.
+[INFO ] 2024-09-25 13:55:45.317 - PASSED - Step 4 - emailAddress is populated with test123@gmail.com.
+[INFO ] 2024-09-25 13:55:45.375 - PASSED - Step 5 - password is populated with Qwerty!123.
+[INFO ] 2024-09-25 13:55:45.415 - PASSED - Step 6 - conPassword is populated with Qwerty!123.
+[INFO ] 2024-09-25 13:55:46.887 - PASSED - Step 7 - createButton was clicked.
+[ERROR] 2024-09-25 13:55:49.412 - FAILED - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2024-09-25 13:55:49.414 - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2024-09-25 13:55:49.414 - =================================== END TEST ===================================

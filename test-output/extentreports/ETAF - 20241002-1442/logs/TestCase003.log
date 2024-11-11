@@ -1,0 +1,26 @@
+[INFO ] 2024-10-02 14:42:31.497 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 14:42:31.505 - Test Case report initialize for TestCase003
+[INFO ] 2024-10-02 14:42:36.592 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 14:42:36.760 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 14:42:36.804 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 14:42:38.381 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 14:42:38.593 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 14:42:38.722 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 14:42:41.721 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 14:42:43.770 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:42:46.676 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:42:48.784 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:42:50.874 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:42:52.969 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:42:55.045 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:42:58.318 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-10-02 14:43:01.612 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-10-02 14:43:01.666 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-10-02 14:43:01.726 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-10-02 14:43:03.840 - PASSED - Step 18 - country was clicked.
+[INFO ] 2024-10-02 14:43:05.925 - PASSED - Step 19 - country was clicked.
+[INFO ] 2024-10-02 14:43:08.019 - PASSED - Step 20 - province is populated with Cavite.
+[INFO ] 2024-10-02 14:43:08.057 - PASSED - Step 21 - zipCode is populated with 3120.
+[INFO ] 2024-10-02 14:43:08.114 - PASSED - Step 22 - phone is populated with 091234567890.
+[INFO ] 2024-10-02 14:43:10.738 - PASSED - Step 23 - next was clicked.
+[INFO ] 2024-10-02 14:43:10.741 - =================================== END TEST ===================================

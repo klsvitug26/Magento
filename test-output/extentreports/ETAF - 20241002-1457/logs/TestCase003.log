@@ -1,0 +1,35 @@
+[INFO ] 2024-10-02 14:57:19.758 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 14:57:19.764 - Test Case report initialize for TestCase003
+[INFO ] 2024-10-02 14:57:21.724 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 14:57:21.887 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 14:57:21.930 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 14:57:23.518 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 14:57:23.765 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 14:57:23.907 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 14:57:26.744 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 14:57:28.823 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:57:31.757 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:57:33.823 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:57:35.928 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:57:37.998 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:57:40.079 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:57:43.244 - PASSED - Step 14 - checkout was clicked.
+[ERROR] 2024-10-02 14:57:57.924 - FAILED - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a0c28eff3a0138e396b361d58a22390, sendKeysToElement {id=f.4405974799DF8B2A11EFD42A9843011A.d.609BBD3B97C39D9F96F47D480C09A16A.e.392, value=[Ljava.lang.CharSequence;@1b317e7d}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64933}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64933/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a0c28eff3a0138e396b361d58a22390)] -> xpath: //input [contains(@name,'company')]]
+Session ID: 0a0c28eff3a0138e396b361d58a22390
+[INFO ] 2024-10-02 14:57:57.924 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=129.0.6668.60)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a0c28eff3a0138e396b361d58a22390, sendKeysToElement {id=f.4405974799DF8B2A11EFD42A9843011A.d.609BBD3B97C39D9F96F47D480C09A16A.e.392, value=[Ljava.lang.CharSequence;@1b317e7d}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64933}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64933/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a0c28eff3a0138e396b361d58a22390)] -> xpath: //input [contains(@name,'company')]]
+Session ID: 0a0c28eff3a0138e396b361d58a22390
+[INFO ] 2024-10-02 14:57:57.924 - =================================== END TEST ===================================

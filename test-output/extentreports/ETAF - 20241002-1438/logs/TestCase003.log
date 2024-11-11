@@ -1,0 +1,45 @@
+[INFO ] 2024-10-02 14:38:08.383 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 14:38:08.391 - Test Case report initialize for TestCase003
+[INFO ] 2024-10-02 14:38:13.688 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 14:38:13.857 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 14:38:13.908 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 14:38:15.243 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 14:38:15.482 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 14:38:15.645 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 14:38:18.280 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 14:38:20.334 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:38:23.122 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:38:25.176 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:38:27.268 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:38:29.335 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:38:31.426 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:38:34.538 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-10-02 14:38:36.495 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-10-02 14:38:36.554 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-10-02 14:38:36.615 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-10-02 14:38:38.715 - PASSED - Step 18 - country was clicked.
+[INFO ] 2024-10-02 14:38:40.788 - PASSED - Step 19 - country was clicked.
+[INFO ] 2024-10-02 14:38:42.901 - PASSED - Step 20 - province is populated with Cavite.
+[INFO ] 2024-10-02 14:38:42.946 - PASSED - Step 21 - zipCode is populated with 3120.
+[INFO ] 2024-10-02 14:38:43.006 - PASSED - Step 22 - phone is populated with 091234567890.
+[ERROR] 2024-10-02 14:38:49.408 - FAILED - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6283c42ac1ed30177724a619c2b4d57f, clickElement {id=f.F2C845B0333EFAD768ED4466670E5537.d.85136E1D16DC811D68D9ABDF2495F0DF.e.425}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63521}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63521/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (6283c42ac1ed30177724a619c2b4d57f)] -> xpath: //input[@value='flatrate_flatrate']]
+Session ID: 6283c42ac1ed30177724a619c2b4d57f
+[INFO ] 2024-10-02 14:38:49.408 - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6283c42ac1ed30177724a619c2b4d57f, clickElement {id=f.F2C845B0333EFAD768ED4466670E5537.d.85136E1D16DC811D68D9ABDF2495F0DF.e.425}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\KIM~1.VIT\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63521}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63521/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (6283c42ac1ed30177724a619c2b4d57f)] -> xpath: //input[@value='flatrate_flatrate']]
+Session ID: 6283c42ac1ed30177724a619c2b4d57f
+[INFO ] 2024-10-02 14:38:49.409 - =================================== END TEST ===================================

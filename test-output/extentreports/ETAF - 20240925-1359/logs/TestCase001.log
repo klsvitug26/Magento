@@ -1,0 +1,11 @@
+[INFO ] 2024-09-25 13:59:31.404 - =================================== START TEST ===================================
+[INFO ] 2024-09-25 13:59:31.410 - Test Case report initialize for TestCase001
+[INFO ] 2024-09-25 13:59:37.071 - PASSED - Step 1 - createAccount was clicked.
+[INFO ] 2024-09-25 13:59:37.264 - PASSED - Step 2 - firstname is populated with Lakeesha.
+[INFO ] 2024-09-25 13:59:37.314 - PASSED - Step 3 - lastName is populated with Glover.
+[INFO ] 2024-09-25 13:59:37.365 - PASSED - Step 4 - emailAddress is populated with qwert123@gmail.com.
+[INFO ] 2024-09-25 13:59:37.432 - PASSED - Step 5 - password is populated with Qwerty!12345.
+[INFO ] 2024-09-25 13:59:37.471 - PASSED - Step 6 - conPassword is populated with Qwerty!12345.
+[INFO ] 2024-09-25 13:59:40.059 - PASSED - Step 7 - createButton was clicked.
+[INFO ] 2024-09-25 13:59:41.115 - PASSED - Step 8 - validateNewUser is displayed.
+[INFO ] 2024-09-25 13:59:41.115 - =================================== END TEST ===================================

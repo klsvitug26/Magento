@@ -1,0 +1,22 @@
+[INFO ] 2024-10-02 14:01:52.682 - =================================== START TEST ===================================
+[INFO ] 2024-10-02 14:01:52.687 - Test Case report initialize for TestCase002
+[INFO ] 2024-10-02 14:01:57.831 - PASSED - Step 1 - signIn was clicked.
+[INFO ] 2024-10-02 14:01:58.015 - PASSED - Step 2 - email is populated with kimtest@gmail.com.
+[INFO ] 2024-10-02 14:01:58.075 - PASSED - Step 3 - password is populated with Qwerty123.
+[INFO ] 2024-10-02 14:01:59.603 - PASSED - Step 4 - logIn was clicked.
+[INFO ] 2024-10-02 14:01:59.822 - PASSED - Step 5 - Moved to hoverMen.
+[INFO ] 2024-10-02 14:01:59.977 - PASSED - Step 6 - Moved to hoverTops.
+[INFO ] 2024-10-02 14:02:02.688 - PASSED - Step 7 - jackets was clicked.
+[INFO ] 2024-10-02 14:02:04.742 - PASSED - Step 8 - showCart was clicked.
+[INFO ] 2024-10-02 14:02:07.448 - PASSED - Step 9 - proteusJacket was clicked.
+[INFO ] 2024-10-02 14:02:09.552 - PASSED - Step 10 - proteusSize was clicked.
+[INFO ] 2024-10-02 14:02:11.631 - PASSED - Step 11 - proteusColor was clicked.
+[INFO ] 2024-10-02 14:02:13.707 - PASSED - Step 12 - addToCart was clicked.
+[INFO ] 2024-10-02 14:02:15.758 - PASSED - Step 13 - showCart was clicked.
+[INFO ] 2024-10-02 14:02:18.944 - PASSED - Step 14 - checkout was clicked.
+[INFO ] 2024-10-02 14:02:20.847 - PASSED - Step 15 - company is populated with Test Company.
+[INFO ] 2024-10-02 14:02:20.897 - PASSED - Step 16 - address is populated with Address 1.
+[INFO ] 2024-10-02 14:02:20.948 - PASSED - Step 17 - city is populated with Test City.
+[INFO ] 2024-10-02 14:02:23.024 - PASSED - Step 18 - province was clicked.
+[INFO ] 2024-10-02 14:02:25.086 - PASSED - Step 19 - province was clicked.
+[INFO ] 2024-10-02 14:02:25.089 - =================================== END TEST ===================================
